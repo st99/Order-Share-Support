@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# Order Share
 
-You can use the [editor on GitHub](https://github.com/st99/Order-Share-Support/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Create purchase and sales orders and share them with customers and suppliers.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Order Share is for small businesses and traders who need to share order details regularly with their suppliers and customers.
 
-### Markdown
+Order can be created and shared with suppliers and customers with related fields in a single entry.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This app offers the following features :
+a. Create an order.
+b. Insert purchase and sale details.
+c. Share required fields with suppliers and customers.
+d. Share the order in an organized text format.
+e. Share it on different applications.
 
-```markdown
-Syntax highlighted code block
+DISCLAIMER :
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/st99/Order-Share-Support/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Kindly consider this app for guidance only. We are not responsible for the sharing of any inappropriate data.
